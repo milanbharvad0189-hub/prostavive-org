@@ -1,0 +1,2 @@
+# prostavive-org
+Static site
