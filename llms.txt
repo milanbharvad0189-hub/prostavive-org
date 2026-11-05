@@ -1,0 +1,26 @@
+# ProstaVive
+
+> ProstaVive is a Prostate Health Dietary Supplement. ProstaVive is a daily dietary supplement marketed to support prostate health, urinary flow, and male vitality. It is positioned for men who want a simple, once-a-day capsule routine aimed at the prostate and urinary comfort concerns that commonly come with age, rather than a multi-product stack. The formula is sold in multi-bottle bundles through its official order page, with a refund policy attached to larger orders.
+
+## Pages
+- [Home — overview, pricing and FAQ](https://prostavive-org.onrender.com/)
+- [What ProstaVive is](https://prostavive-org.onrender.com/what-is-product.html)
+- [How ProstaVive works](https://prostavive-org.onrender.com/how-it-works.html)
+- [ProstaVive ingredients, explained individually](https://prostavive-org.onrender.com/ingredients.html)
+- [ProstaVive benefits](https://prostavive-org.onrender.com/benefits.html)
+- [ProstaVive customer reviews](https://prostavive-org.onrender.com/reviews.html)
+- [ProstaVive frequently asked questions](https://prostavive-org.onrender.com/faq.html)
+
+## Blog
+- [What To Know Before Trying ProstaVive](https://prostavive-org.onrender.com/blog/what-to-know-before-trying.html): A clear, honest look at ProstaVive — what it contains, how it is used, what it costs, and the guarantee behind it — before you decide to order.
+- [How To Read A Supplement Label](https://prostavive-org.onrender.com/blog/how-to-read-a-supplement-label.html): Serving size, proprietary blends and other ingredients explained — using ProstaVive's own label as a real example of what to look for.
+- [ProstaVive: An Honest Review](https://prostavive-org.onrender.com/blog/prostavive-honest-review.html): An honest look at ProstaVive — what it claims to do, what it actually contains, what it costs, and who it is realistically a good fit for.
+- [Saw Palmetto vs Pygeum Africanum: What Each Does In ProstaVive](https://prostavive-org.onrender.com/blog/saw-palmetto-vs-pygeum-africanum.html): Saw Palmetto and Pygeum Africanum are both in ProstaVive but play different roles — here is what each one actually does in the formula.
+- [Daily Habits That Complement ProstaVive](https://prostavive-org.onrender.com/blog/daily-habits-that-complement-it.html): Simple daily habits — hydration, timing, consistency — that pair well with ProstaVive as part of a prostate health dietary routine.
+- [ProstaVive FAQ: Dosage, Timing, Who Should Skip It](https://prostavive-org.onrender.com/blog/prostavive-faq.html): Common questions about ProstaVive — dosage, timing, the guarantee, and who should skip it — answered directly.
+- [Terms of Use](https://prostavive-org.onrender.com/terms.html)
+- [Privacy Policy](https://prostavive-org.onrender.com/privacy-policy.html)
+- [Disclaimer](https://prostavive-org.onrender.com/disclaimer.html)
+- [Refund Policy](https://prostavive-org.onrender.com/refund-policy.html)
+- [About Us](https://prostavive-org.onrender.com/about.html)
+- [Contact Us](https://prostavive-org.onrender.com/contact.html)
